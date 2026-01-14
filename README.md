@@ -1,63 +1,72 @@
-# 💫 About Me  
-**AI & Machine Learning Engineer | Data Analyst | Python Instructor**  
+# 👋 Hi, I'm Haseen Ur Rahman  
 
-I specialize in **Natural Language Processing (NLP)**, **Computer Vision**, and **Generative AI**, building intelligent and scalable solutions.  
-Passionate about **AI-driven automation**, **data storytelling**, and **teaching practical, industry-ready skills**.
+### 🤖 AI & Machine Learning Engineer | 📊 Data Analyst | 🧑‍🏫 Python Instructor  
+
+I build **intelligent systems** that turn data into **actionable insights**.  
+My work focuses on **NLP**, **Computer Vision**, and **Generative AI**, with a strong passion for **automation, education, and real-world problem solving**.
+
+> *"Code with purpose. Teach with passion. Build for impact."*
 
 ---
 
-## 🚀 What I Do
-- 🤖 Build ML & Deep Learning models  
-- 🧠 Work with NLP, CV & Generative AI  
-- 📊 Analyze data & extract insights  
-- 🧑‍🏫 Teach Python, Data Science & AI  
-- ⚙️ Automate workflows using AI  
+## 🧠 Core Expertise
+- 🔹 Artificial Intelligence & Machine Learning  
+- 🔹 Natural Language Processing (NLP)  
+- 🔹 Computer Vision  
+- 🔹 Generative AI & LLMs  
+- 🔹 Data Analysis & Visualization  
+- 🔹 Python Training & Mentorship  
+
+---
+
+## 🚀 What Makes Me Different
+✅ Strong **theory + practical implementation**  
+✅ Experience in **teaching & industry projects**  
+✅ Focus on **automation & scalable AI solutions**  
+✅ Clear **data storytelling & explainability**  
 
 ---
 
 ## 🌐 Connect With Me
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/haseenurrahman)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/haseenurrahman)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/haseenurrahman)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codewithhaseen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haseenurrahman)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codewithhaseen)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@codewithhaseen)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@codewithhaseen)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/haseenurrahman)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haseenrahman9@gmail.com)
 
 ---
 
 ## 💻 Tech Stack
-### 🧠 AI / ML
+### 🧠 AI / Data
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 📊 Data & Tools
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haseenurrahman&theme=dark&hide_border=false)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=haseenurrahman&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haseenurrahman&layout=compact&theme=dark)
+## 📊 GitHub Performance
+![Stats](https://github-readme-stats.vercel.app/api?username=haseenurrahman&theme=radical)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=haseenurrahman&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haseenurrahman&layout=compact&theme=radical)
 
 ---
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=haseenurrahman&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=haseenurrahman&theme=radical&no-bg=true&margin-w=5)
 
 ---
 
-## 👀 Profile Views
-![Visitor Count](https://visitcount.itsvg.in/api?id=haseenurrahman&icon=0&color=0)
+## 👁️ Visitors
+![Visitors](https://visitcount.itsvg.in/api?id=haseenurrahman&color=12)
 
 ---
 
-⭐ *Always learning. Always building. Always sharing knowledge.*
+✨ *Turning ideas into intelligence — and intelligence into impact.*
+
 
 Author - Haseen Ur Rahman
 	
