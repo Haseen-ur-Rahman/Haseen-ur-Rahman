@@ -28,7 +28,7 @@ My work focuses on **NLP**, **Computer Vision**, and **Generative AI**, with a s
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)([https://www.linkedin.com/in/haseen-rahman-550a8b311?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9IaiglthRtCyGNx73lyqMg%3D%3D](https://www.linkedin.com/in/haseen-rahman-550a8b311?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9IaiglthRtCyGNx73lyqMg%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseen-rahman-550a8b311)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codewithhaseen)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@codewithhaseen)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@codewithhaseen)
